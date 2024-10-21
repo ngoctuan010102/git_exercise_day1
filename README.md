@@ -1,1 +1,1 @@
-finish my exercise 1
+finish my exercise 1. FeatureB is changed
